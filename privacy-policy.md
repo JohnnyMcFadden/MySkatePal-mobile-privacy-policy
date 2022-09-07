@@ -1,6 +1,6 @@
-MySkatePal: Privacy policy
+SkateDex: Privacy policy
 
-Welcome to the MySkatePal app!
+Welcome to the SkateDex app!
 
 This is app is developed by https://www.thejoecodes.com/.
 
@@ -12,4 +12,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 Jonathan McFadden
-myskatepal@gmail.com
+skatedexhelp@gmail.com
