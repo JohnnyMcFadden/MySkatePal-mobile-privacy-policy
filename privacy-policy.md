@@ -1,4 +1,5 @@
 MySkatePal: Privacy policy
+
 Welcome to the MySkatePal app!
 
 This is app is developed by https://www.thejoecodes.com/.
@@ -11,4 +12,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 Jonathan McFadden
-thejoecodes.github@gmail.com
+myskatepal@gmail.com
